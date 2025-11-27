@@ -1,0 +1,17 @@
+/Users/abnersantiago/Documents/ProductInventory/ProductInventoryApp/bin/Debug/net9.0/ProductInventoryApp
+/Users/abnersantiago/Documents/ProductInventory/ProductInventoryApp/bin/Debug/net9.0/ProductInventoryApp.deps.json
+/Users/abnersantiago/Documents/ProductInventory/ProductInventoryApp/bin/Debug/net9.0/ProductInventoryApp.runtimeconfig.json
+/Users/abnersantiago/Documents/ProductInventory/ProductInventoryApp/bin/Debug/net9.0/ProductInventoryApp.dll
+/Users/abnersantiago/Documents/ProductInventory/ProductInventoryApp/bin/Debug/net9.0/ProductInventoryApp.pdb
+/Users/abnersantiago/Documents/ProductInventory/ProductInventoryApp/bin/Debug/net9.0/Newtonsoft.Json.dll
+/Users/abnersantiago/Documents/ProductInventory/ProductInventoryApp/obj/Debug/net9.0/ProductInventoryApp.csproj.AssemblyReference.cache
+/Users/abnersantiago/Documents/ProductInventory/ProductInventoryApp/obj/Debug/net9.0/ProductInventoryApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abnersantiago/Documents/ProductInventory/ProductInventoryApp/obj/Debug/net9.0/ProductInventoryApp.AssemblyInfoInputs.cache
+/Users/abnersantiago/Documents/ProductInventory/ProductInventoryApp/obj/Debug/net9.0/ProductInventoryApp.AssemblyInfo.cs
+/Users/abnersantiago/Documents/ProductInventory/ProductInventoryApp/obj/Debug/net9.0/ProductInventoryApp.csproj.CoreCompileInputs.cache
+/Users/abnersantiago/Documents/ProductInventory/ProductInventoryApp/obj/Debug/net9.0/ProductI.1CA42039.Up2Date
+/Users/abnersantiago/Documents/ProductInventory/ProductInventoryApp/obj/Debug/net9.0/ProductInventoryApp.dll
+/Users/abnersantiago/Documents/ProductInventory/ProductInventoryApp/obj/Debug/net9.0/refint/ProductInventoryApp.dll
+/Users/abnersantiago/Documents/ProductInventory/ProductInventoryApp/obj/Debug/net9.0/ProductInventoryApp.pdb
+/Users/abnersantiago/Documents/ProductInventory/ProductInventoryApp/obj/Debug/net9.0/ProductInventoryApp.genruntimeconfig.cache
+/Users/abnersantiago/Documents/ProductInventory/ProductInventoryApp/obj/Debug/net9.0/ref/ProductInventoryApp.dll

@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "Name": "Air Jordan 1",
+    "Sku": "SNKR-001",
+    "Qty": 20,
+    "Price": 170.0,
+    "Category": "Shoes",
+    "Active": true,
+    "CreatedAt": "2025-11-22T17:28:46.875115-04:00"
+  },
+  {
+    "Id": 2,
+    "Name": "Yeezy 700",
+    "Sku": "SNKR-002",
+    "Qty": 20,
+    "Price": 200.0,
+    "Category": "Shoes",
+    "Active": true,
+    "CreatedAt": "2025-11-22T17:29:42.523772-04:00"
+  },
+  {
+    "Id": 3,
+    "Name": "Nike Air Force 1",
+    "Sku": "SNKR-003",
+    "Qty": 50,
+    "Price": 100.0,
+    "Category": "Shoes",
+    "Active": true,
+    "CreatedAt": "2025-11-26T20:13:36.792216-04:00"
+  }
+]

@@ -4,13 +4,12 @@ Descripción
 ProductInventoryApp es una aplicación de consola (CLI) en C# para manejo seguro de inventario de productos. Implementa autenticación de usuarios, CRUD de productos, control de acceso por roles y registro de auditoría, siguiendo principios de Secure by Design y buenas prácticas de programación segura.
 
 Credenciales de prueba
-
-Administrador:
+Administrador
 Usuario: admin
 Contraseña: admin123
 Rol: admin (puede crear, actualizar, eliminar y ver productos)
 
-Usuario estándar:
+Usuario estándar
 Puede registrarse con cualquier nombre de usuario y contraseña, solo tiene acceso de lectura a los productos.
 
 Nota: Al ejecutar por primera vez, la aplicación crea automáticamente el usuario administrador (admin/admin123) si no existe.
@@ -18,30 +17,23 @@ Nota: Al ejecutar por primera vez, la aplicación crea automáticamente el usuar
 Requisitos
 
 .NET 6 o superior instalado
-
 Sistema operativo: Windows, macOS o Linux
 
 Ejecución
 
 Clone el repositorio:
-
 git clone https://github.com/luisander1830/ProductInventoryApp.git
 
-
 Ingrese a la carpeta del proyecto:
-
 cd ProductInventoryApp
 
-
 Ejecute el proyecto:
-
 dotnet run
-
 
 Use las credenciales del administrador (admin/admin123) o regístrese como usuario estándar.
 
-Estructura del proyecto
 
+Estructura del proyecto
 Program.cs: Punto de entrada del programa
 
 Auth/: Manejo de autenticación y usuarios

@@ -1,4 +1,6 @@
-ProductInventoryApp
+ProductInventoryApp 
+Luisander Arroyo Rivera larroyo6794@interbayamon.edu
+
 Descripción
 
 ProductInventoryApp es una aplicación de consola (CLI) en C# para manejo seguro de inventario de productos. Implementa autenticación de usuarios, CRUD de productos, control de acceso por roles y registro de auditoría, siguiendo principios de Secure by Design y buenas prácticas de programación segura.
